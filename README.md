@@ -18,6 +18,8 @@ Henter inn reiseinformasjon i JSON format
 
 Og API'et skal returnere
 
-`{
+```
+{
     "reisefradrag”: 13168
-}`
+}
+```
